@@ -1,0 +1,47 @@
+{
+  "experiment": "exp4_border_five_fourths",
+  "rows": [
+    {
+      "log2_n": 16,
+      "log2_openai_5_4": 29.198,
+      "log2_n2": 32,
+      "log2_n4": 64
+    },
+    {
+      "log2_n": 32,
+      "log2_openai_5_4": 69.445,
+      "log2_n2": 64,
+      "log2_n4": 128
+    },
+    {
+      "log2_n": 64,
+      "log2_openai_5_4": 165.17,
+      "log2_n2": 128,
+      "log2_n4": 256
+    },
+    {
+      "log2_n": 128,
+      "log2_openai_5_4": 392.843,
+      "log2_n2": 256,
+      "log2_n4": 512
+    },
+    {
+      "log2_n": 256,
+      "log2_openai_5_4": 934.343,
+      "log2_n2": 512,
+      "log2_n4": 1024
+    },
+    {
+      "log2_n": 512,
+      "log2_openai_5_4": 2222.255,
+      "log2_n2": 1024,
+      "log2_n4": 2048
+    },
+    {
+      "log2_n": 1024,
+      "log2_openai_5_4": 5285.442,
+      "log2_n2": 2048,
+      "log2_n4": 4096
+    }
+  ]
+}

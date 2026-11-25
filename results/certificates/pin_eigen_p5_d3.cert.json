@@ -1,0 +1,76 @@
+{
+  "schema": "BORDER-VPVNP-CERT-1.0",
+  "mode": "residue_pin_eigenvector_exact",
+  "name": "pin_eigen_p5_d3",
+  "prime_p": 5,
+  "dim_d": 3,
+  "omega_vec": [
+    1,
+    1,
+    1
+  ],
+  "pin_matrices": [
+    [
+      [
+        1,
+        2,
+        4
+      ],
+      [
+        4,
+        0,
+        3
+      ],
+      [
+        2,
+        3,
+        2
+      ]
+    ],
+    [
+      [
+        1,
+        2,
+        1
+      ],
+      [
+        4,
+        0,
+        0
+      ],
+      [
+        2,
+        3,
+        4
+      ]
+    ],
+    [
+      [
+        1,
+        2,
+        4
+      ],
+      [
+        4,
+        0,
+        3
+      ],
+      [
+        2,
+        3,
+        2
+      ]
+    ]
+  ],
+  "pin_eigenvalues": [
+    2,
+    4,
+    2
+  ],
+  "path_coeffs": [
+    3,
+    2,
+    1
+  ],
+  "claimed_combined_z": 1
+}

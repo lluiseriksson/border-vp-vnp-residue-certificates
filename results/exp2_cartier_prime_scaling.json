@@ -1,0 +1,68 @@
+{
+  "experiment": "exp2_cartier_prime_scaling",
+  "rows": [
+    {
+      "prime_p": 3,
+      "terms_A": 4,
+      "terms_eta": 5,
+      "residue": 2,
+      "verify_ms": 0.0616
+    },
+    {
+      "prime_p": 5,
+      "terms_A": 4,
+      "terms_eta": 5,
+      "residue": 2,
+      "verify_ms": 0.0758
+    },
+    {
+      "prime_p": 7,
+      "terms_A": 4,
+      "terms_eta": 5,
+      "residue": 2,
+      "verify_ms": 0.0933
+    },
+    {
+      "prime_p": 11,
+      "terms_A": 4,
+      "terms_eta": 5,
+      "residue": 2,
+      "verify_ms": 0.2412
+    },
+    {
+      "prime_p": 13,
+      "terms_A": 4,
+      "terms_eta": 5,
+      "residue": 2,
+      "verify_ms": 0.2636
+    },
+    {
+      "prime_p": 17,
+      "terms_A": 4,
+      "terms_eta": 5,
+      "residue": 2,
+      "verify_ms": 0.7318
+    },
+    {
+      "prime_p": 19,
+      "terms_A": 4,
+      "terms_eta": 5,
+      "residue": 2,
+      "verify_ms": 0.7874
+    },
+    {
+      "prime_p": 23,
+      "terms_A": 4,
+      "terms_eta": 5,
+      "residue": 2,
+      "verify_ms": 0.9253
+    },
+    {
+      "prime_p": 29,
+      "terms_A": 4,
+      "terms_eta": 5,
+      "residue": 2,
+      "verify_ms": 1.2167
+    }
+  ]
+}

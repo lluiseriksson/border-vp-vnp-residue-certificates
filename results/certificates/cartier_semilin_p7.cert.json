@@ -1,0 +1,36 @@
+{
+  "schema": "BORDER-VPVNP-CERT-1.0",
+  "mode": "cartier_operator_semilinear_exact",
+  "name": "cartier_semilin_p7",
+  "prime_p": 7,
+  "poly_A": {
+    "-2": 4,
+    "0": 5,
+    "1": 6,
+    "3": 1
+  },
+  "diff_eta": {
+    "-8": 1,
+    "-1": 4,
+    "6": 5,
+    "7": 1,
+    "13": 1
+  },
+  "claimed_cartier_eta": {
+    "-2": 1,
+    "-1": 4,
+    "0": 5,
+    "1": 1
+  },
+  "claimed_cartier_Ap_eta": {
+    "-4": 4,
+    "-3": 2,
+    "-2": 4,
+    "-1": 2,
+    "1": 1,
+    "2": 3,
+    "3": 5,
+    "4": 1
+  },
+  "claimed_residue": 4
+}

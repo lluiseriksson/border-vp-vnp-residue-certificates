@@ -1,0 +1,226 @@
+{
+  "experiment": "exp1_certified_atlas",
+  "count": 16,
+  "rows": [
+    {
+      "file": "cartier_semilin_p3.cert.json",
+      "mode": "cartier_operator_semilinear_exact",
+      "verify_ms": 0.0793,
+      "summary": {
+        "verified": true,
+        "mode": "cartier_operator_semilinear_exact",
+        "prime_p": 3,
+        "terms_A": 4,
+        "terms_eta": 5,
+        "residue": 2
+      }
+    },
+    {
+      "file": "cartier_semilin_p5.cert.json",
+      "mode": "cartier_operator_semilinear_exact",
+      "verify_ms": 0.0975,
+      "summary": {
+        "verified": true,
+        "mode": "cartier_operator_semilinear_exact",
+        "prime_p": 5,
+        "terms_A": 4,
+        "terms_eta": 5,
+        "residue": 3
+      }
+    },
+    {
+      "file": "cartier_semilin_p7.cert.json",
+      "mode": "cartier_operator_semilinear_exact",
+      "verify_ms": 0.1214,
+      "summary": {
+        "verified": true,
+        "mode": "cartier_operator_semilinear_exact",
+        "prime_p": 7,
+        "terms_A": 4,
+        "terms_eta": 5,
+        "residue": 4
+      }
+    },
+    {
+      "file": "cartier_semilin_p13.cert.json",
+      "mode": "cartier_operator_semilinear_exact",
+      "verify_ms": 0.2604,
+      "summary": {
+        "verified": true,
+        "mode": "cartier_operator_semilinear_exact",
+        "prime_p": 13,
+        "terms_A": 4,
+        "terms_eta": 5,
+        "residue": 5
+      }
+    },
+    {
+      "file": "pole_cancel_p5_k3.cert.json",
+      "mode": "boundary_pole_cancellation_residue_exact",
+      "verify_ms": 0.0702,
+      "summary": {
+        "verified": true,
+        "mode": "boundary_pole_cancellation_residue_exact",
+        "prime_p": 5,
+        "num_paths": 3,
+        "max_path_pole": 2,
+        "boundary_z": 3,
+        "test_residue": 2
+      }
+    },
+    {
+      "file": "pole_cancel_p7_k4.cert.json",
+      "mode": "boundary_pole_cancellation_residue_exact",
+      "verify_ms": 0.0818,
+      "summary": {
+        "verified": true,
+        "mode": "boundary_pole_cancellation_residue_exact",
+        "prime_p": 7,
+        "num_paths": 4,
+        "max_path_pole": 3,
+        "boundary_z": 5,
+        "test_residue": 2
+      }
+    },
+    {
+      "file": "pole_cancel_p11_k5.cert.json",
+      "mode": "boundary_pole_cancellation_residue_exact",
+      "verify_ms": 0.1134,
+      "summary": {
+        "verified": true,
+        "mode": "boundary_pole_cancellation_residue_exact",
+        "prime_p": 11,
+        "num_paths": 5,
+        "max_path_pole": 4,
+        "boundary_z": 7,
+        "test_residue": 1
+      }
+    },
+    {
+      "file": "pole_cancel_p17_k6.cert.json",
+      "mode": "boundary_pole_cancellation_residue_exact",
+      "verify_ms": 0.1894,
+      "summary": {
+        "verified": true,
+        "mode": "boundary_pole_cancellation_residue_exact",
+        "prime_p": 17,
+        "num_paths": 6,
+        "max_path_pole": 5,
+        "boundary_z": 11,
+        "test_residue": 13
+      }
+    },
+    {
+      "file": "pin_eigen_p5_d3.cert.json",
+      "mode": "residue_pin_eigenvector_exact",
+      "verify_ms": 0.0731,
+      "summary": {
+        "verified": true,
+        "mode": "residue_pin_eigenvector_exact",
+        "prime_p": 5,
+        "dim_d": 3,
+        "num_pins": 3,
+        "combined_z": 1
+      }
+    },
+    {
+      "file": "pin_eigen_p7_d4.cert.json",
+      "mode": "residue_pin_eigenvector_exact",
+      "verify_ms": 0.0932,
+      "summary": {
+        "verified": true,
+        "mode": "residue_pin_eigenvector_exact",
+        "prime_p": 7,
+        "dim_d": 4,
+        "num_pins": 4,
+        "combined_z": 3
+      }
+    },
+    {
+      "file": "pin_eigen_p11_d6.cert.json",
+      "mode": "residue_pin_eigenvector_exact",
+      "verify_ms": 0.1739,
+      "summary": {
+        "verified": true,
+        "mode": "residue_pin_eigenvector_exact",
+        "prime_p": 11,
+        "dim_d": 6,
+        "num_pins": 5,
+        "combined_z": 9
+      }
+    },
+    {
+      "file": "pin_eigen_p19_d8.cert.json",
+      "mode": "residue_pin_eigenvector_exact",
+      "verify_ms": 0.3045,
+      "summary": {
+        "verified": true,
+        "mode": "residue_pin_eigenvector_exact",
+        "prime_p": 19,
+        "dim_d": 8,
+        "num_pins": 6,
+        "combined_z": 18
+      }
+    },
+    {
+      "file": "hinge_barrier_D2_u3.cert.json",
+      "mode": "hinge_shortening_and_border_barrier_exact",
+      "verify_ms": 0.0241,
+      "summary": {
+        "verified": true,
+        "mode": "hinge_shortening_and_border_barrier_exact",
+        "shortening_gap": 4,
+        "amplified_gap": 16,
+        "det2": 83,
+        "num_queries": 4,
+        "scale_u": 3,
+        "poly_degree_k": 2
+      }
+    },
+    {
+      "file": "hinge_barrier_D3_u4.cert.json",
+      "mode": "hinge_shortening_and_border_barrier_exact",
+      "verify_ms": 0.0254,
+      "summary": {
+        "verified": true,
+        "mode": "hinge_shortening_and_border_barrier_exact",
+        "shortening_gap": 4,
+        "amplified_gap": 24,
+        "det2": -402,
+        "num_queries": 5,
+        "scale_u": 4,
+        "poly_degree_k": 3
+      }
+    },
+    {
+      "file": "hinge_barrier_D4_u5.cert.json",
+      "mode": "hinge_shortening_and_border_barrier_exact",
+      "verify_ms": 0.0241,
+      "summary": {
+        "verified": true,
+        "mode": "hinge_shortening_and_border_barrier_exact",
+        "shortening_gap": 8,
+        "amplified_gap": 64,
+        "det2": 2850,
+        "num_queries": 6,
+        "scale_u": 5,
+        "poly_degree_k": 4
+      }
+    },
+    {
+      "file": "hinge_barrier_D5_u6.cert.json",
+      "mode": "hinge_shortening_and_border_barrier_exact",
+      "verify_ms": 0.036,
+      "summary": {
+        "verified": true,
+        "mode": "hinge_shortening_and_border_barrier_exact",
+        "shortening_gap": 20,
+        "amplified_gap": 200,
+        "det2": 15350,
+        "num_queries": 7,
+        "scale_u": 6,
+        "poly_degree_k": 5
+      }
+    }
+  ]
+}

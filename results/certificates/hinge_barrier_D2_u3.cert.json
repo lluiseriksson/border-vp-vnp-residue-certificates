@@ -1,0 +1,26 @@
+{
+  "schema": "BORDER-VPVNP-CERT-1.0",
+  "mode": "hinge_shortening_and_border_barrier_exact",
+  "name": "hinge_barrier_D2_u3",
+  "dim_D": 2,
+  "width_m": 10,
+  "cost_w": 28,
+  "log2_A": 2,
+  "tensor_power_t": 4,
+  "minor_2x2": [
+    7,
+    -5,
+    4,
+    9
+  ],
+  "entry_bound_B": 10,
+  "query_degrees": [
+    3,
+    4,
+    4,
+    2
+  ],
+  "max_query_degree": 4,
+  "scale_u": 3,
+  "poly_degree_k": 2
+}

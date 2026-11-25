@@ -1,0 +1,53 @@
+{
+  "experiment": "exp3_pole_cancellation_scaling",
+  "rows": [
+    {
+      "prime_p": 5,
+      "num_paths": 3,
+      "max_path_pole": 2,
+      "boundary_z": 3,
+      "test_residue": 2,
+      "verify_ms": 0.1149
+    },
+    {
+      "prime_p": 7,
+      "num_paths": 4,
+      "max_path_pole": 3,
+      "boundary_z": 4,
+      "test_residue": 6,
+      "verify_ms": 0.1177
+    },
+    {
+      "prime_p": 11,
+      "num_paths": 5,
+      "max_path_pole": 5,
+      "boundary_z": 6,
+      "test_residue": 9,
+      "verify_ms": 0.1796
+    },
+    {
+      "prime_p": 13,
+      "num_paths": 6,
+      "max_path_pole": 6,
+      "boundary_z": 7,
+      "test_residue": 4,
+      "verify_ms": 0.2109
+    },
+    {
+      "prime_p": 17,
+      "num_paths": 7,
+      "max_path_pole": 8,
+      "boundary_z": 9,
+      "test_residue": 5,
+      "verify_ms": 0.3241
+    },
+    {
+      "prime_p": 23,
+      "num_paths": 8,
+      "max_path_pole": 10,
+      "boundary_z": 12,
+      "test_residue": 18,
+      "verify_ms": 0.4665
+    }
+  ]
+}

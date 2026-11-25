@@ -1,0 +1,20 @@
+import BorderVPVNPResidues
+
+#print axioms BorderVPVNPResidues.freshman_dream_p2
+#print axioms BorderVPVNPResidues.freshman_dream_p3
+#print axioms BorderVPVNPResidues.freshman_dream_p5
+#print axioms BorderVPVNPResidues.fermat_little_p3
+#print axioms BorderVPVNPResidues.fermat_little_p5
+#print axioms BorderVPVNPResidues.cartier_index_fixes_residue
+#print axioms BorderVPVNPResidues.cartier_index_injective
+#print axioms BorderVPVNPResidues.cartier_semilinear_shift
+#print axioms BorderVPVNPResidues.cartier_kills_non_residue_mod_p
+#print axioms BorderVPVNPResidues.pole_cancellation_residue_invar
+#print axioms BorderVPVNPResidues.residue_pin_eigenvalue_add
+#print axioms BorderVPVNPResidues.residue_pin_eigenvalue_scale
+#print axioms BorderVPVNPResidues.hinge_shortening_strict_gap
+#print axioms BorderVPVNPResidues.hinge_tensor_power_amplification
+#print axioms BorderVPVNPResidues.batch_query_degree_budget_list
+#print axioms BorderVPVNPResidues.hadamard_det2_entry_bound
+#print axioms BorderVPVNPResidues.exp_five_fourths_beats_poly
+#print axioms BorderVPVNPResidues.degree_homogenization_add
