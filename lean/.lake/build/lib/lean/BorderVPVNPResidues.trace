@@ -1,0 +1,31 @@
+{"synthetic": false,
+ "schemaVersion": "2025-09-10",
+ "outputs":
+ {"o": ["ba703abd9046a7ca.olean"],
+  "m": false,
+  "i": "8fcac2bcf2f4427f.ilean",
+  "c": "9dd14288cf615a75.c"},
+ "log":
+ [{"message":
+   ".> LEAN_PATH=D:\\Datos\\gemini\\antigravity\\scratch\\airr-frontier-lab\\paper21-border-vp-vnp-residue-certificates\\lean\\.lake\\build\\lib\\lean c:\\Users\\lluis\\.elan\\toolchains\\leanprover--lean4---v4.35.0\\bin\\lean.exe D:\\Datos\\gemini\\antigravity\\scratch\\airr-frontier-lab\\paper21-border-vp-vnp-residue-certificates\\lean\\BorderVPVNPResidues.lean -o D:\\Datos\\gemini\\antigravity\\scratch\\airr-frontier-lab\\paper21-border-vp-vnp-residue-certificates\\lean\\.lake\\build\\lib\\lean\\BorderVPVNPResidues.olean -i D:\\Datos\\gemini\\antigravity\\scratch\\airr-frontier-lab\\paper21-border-vp-vnp-residue-certificates\\lean\\.lake\\build\\lib\\lean\\BorderVPVNPResidues.ilean -c D:\\Datos\\gemini\\antigravity\\scratch\\airr-frontier-lab\\paper21-border-vp-vnp-residue-certificates\\lean\\.lake\\build\\ir\\BorderVPVNPResidues.c --setup D:\\Datos\\gemini\\antigravity\\scratch\\airr-frontier-lab\\paper21-border-vp-vnp-residue-certificates\\lean\\.lake\\build\\ir\\BorderVPVNPResidues.setup.json --json",
+   "level": "trace"}],
+ "inputs":
+ [["deps",
+   [["border_vp_vnp_residues/BorderVPVNPResidues:extraDep",
+     [["@border_vp_vnp_residues:extraDep", "00000000000006bb"]]],
+    ["imports", "00000000000006bb"]]],
+  ["libs",
+   [["import dynlibs", "00000000000006bb"],
+    ["package external libraries", "00000000000006bb"],
+    ["module dynlibs", "00000000000006bb"],
+    ["module plugins", "00000000000006bb"]]],
+  ["Lean 4.35.0, commit eb6cafb7290e8bd5f2937522d8d804f58f02bafc",
+   "407ce514b71d5a10"],
+  ["D:\\Datos\\gemini\\antigravity\\scratch\\airr-frontier-lab\\paper21-border-vp-vnp-residue-certificates\\lean\\BorderVPVNPResidues.lean",
+   "c6e0ebcc55df9f88"],
+  ["options", "00000000000006bb"],
+  ["isModule: false", "feefd2a0d3a1847e"],
+  ["Module.name: BorderVPVNPResidues", "3bf8f78721332435"],
+  ["Package.id?: (some border_vp_vnp_residues)", "63792a7dd5ee8d3e"],
+  ["Module.leanArgs: #[]", "00000000000006bb"]],
+ "depHash": "63ac84fa30d5202a"}

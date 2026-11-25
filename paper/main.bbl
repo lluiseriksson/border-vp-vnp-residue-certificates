@@ -1,0 +1,31 @@
+\begin{thebibliography}{1}
+
+\bibitem{mulmuley2001geometric}
+Ketan~D. Mulmuley and Milind Sohoni.
+\newblock Geometric complexity theory {I}: An approach to the {P} vs.\ {NP} and
+  related problems.
+\newblock {\em SIAM Journal on Computing}, 31(2):496--526, 2001.
+
+\bibitem{openai2026hierarchy}
+{OpenAI}.
+\newblock Paths, trees and grids separate {V}aliant's hierarchy.
+\newblock OpenAI Math Preprint (\texttt{openai/math}), November 24, 2026.
+
+\bibitem{openai2026vpvnp}
+{OpenAI}.
+\newblock {VP} and {VNP} are different.
+\newblock OpenAI Math Preprint (\texttt{openai/math}), November 23, 2026.
+
+\bibitem{stohr1986weierstrass}
+Karl-Otto St{\"o}hr and Jos{\'e}~Felipe Voloch.
+\newblock A formula for the {C}artier operator on plane algebraic curves.
+\newblock {\em Journal f{\"u}r die reine und angewandte Mathematik},
+  377:49--64, 1987.
+
+\bibitem{valiant1979completeness}
+Leslie~G. Valiant.
+\newblock Completeness classes in algebra.
+\newblock In {\em Proceedings of the 11th Annual ACM Symposium on Theory of
+  Computing (STOC)}, pages 249--261, 1979.
+
+\end{thebibliography}
